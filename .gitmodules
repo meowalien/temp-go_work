@@ -1,0 +1,6 @@
+[submodule "mai_go"]
+	path = mai_go
+	url = git@github.com:Rollbytes/mai_go.git
+[submodule "mai_go_lib"]
+	path = mai_go_lib
+	url = git@github.com:Rollbytes/mai_go_lib.git
